@@ -1,3 +1,7 @@
-practice1
-Pedro Duban Moreno Uribe
-Andres Rodriguez
+
+
+practice1--
+Pedro Duban Moreno Uribe --
+Andres Rodriguez--
+Alejandro Garcia
+
