@@ -1,7 +1,6 @@
 
 
-practice1--
+practice1-- 16/09/2021
 Pedro Duban Moreno Uribe --
-Andres Rodriguez--
-Alejandro Garcia
+
 
