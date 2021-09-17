@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[APODERADO]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [nombre] NVARCHAR(50) NOT NULL, 
+    [telefono] NVARCHAR(50) NOT NULL, 
+    [Id_Alumno] INT NOT NULL, 
+    CONSTRAINT [FK_APODERADO_alumno] FOREIGN KEY ([Id_Alumno]) REFERENCES [ALUMNO]([Id])
+)

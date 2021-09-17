@@ -1,0 +1,10 @@
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\bin\Debug\formPrac1.exe.config
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\bin\Debug\formPrac1.exe
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\bin\Debug\formPrac1.pdb
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.Form1.resources
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.Properties.Resources.resources
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.csproj.GenerateResource.cache
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.exe
+D:\Users\Usuario\Desktop\prac1\practice1\formprac1\formPrac1\formPrac1\obj\Debug\formPrac1.pdb
