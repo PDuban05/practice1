@@ -1,9 +1,6 @@
 D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\bin\Debug\sqlprac1.dacpac
 D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\bin\Debug\sqlprac1.dll
 D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\bin\Debug\sqlprac1.pdb
-D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\Model.xml
-D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\refactor.xml
-D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\postdeploy.sql
-D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\predeploy.sql
 D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\sqlprac1.dll
 D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\sqlprac1.pdb
+D:\Users\Usuario\Desktop\prac1\practice1\sqlprac1\sqlprac1\obj\Debug\sqlprac1.sqlproj.AssemblyReference.cache

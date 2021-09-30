@@ -1,0 +1,12 @@
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\obj\Debug\DBeNTITI.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\obj\Debug\DBeNTITI.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\DBeNTITI.exe.config
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\DBeNTITI.exe
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\DBeNTITI.pdb
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\EntityFramework.dll
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\EntityFramework.xml
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\obj\Debug\DBeNTITI.csproj.CopyComplete
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\obj\Debug\DBeNTITI.exe
+D:\Users\Usuario\Desktop\prac1\practice1\DBeNTITI\DBeNTITI\obj\Debug\DBeNTITI.pdb
