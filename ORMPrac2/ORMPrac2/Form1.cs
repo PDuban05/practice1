@@ -49,6 +49,8 @@ namespace ORMPrac2
                             List<Model.CUSTOMER> customers = new List<Model.CUSTOMER>();
                             List<Model.ORDERS> orders = new List<Model.ORDERS>();
 
+                            //llenado de la base de datos
+
                             agentes.Add(new Model.AGENTS { AGENT_CODE = 001, AGENT_NAME = "Ramasundar", WORKING_AREA = "Bangalore", COMMISSION = 0, COUNTRY = "", PHONE_NO = "077-25814763" });
                             agentes.Add(new Model.AGENTS { AGENT_CODE = 002, AGENT_NAME = "Alex", WORKING_AREA = "Londo", COMMISSION = 0.13m, COUNTRY = "", PHONE_NO = "077-43323" });
                             agentes.Add(new Model.AGENTS { AGENT_CODE = 003, AGENT_NAME = "Alford", WORKING_AREA = "New York", COMMISSION = 0.12m, COUNTRY = "", PHONE_NO = "077-3441314" });
@@ -82,7 +84,7 @@ namespace ORMPrac2
                             orders.Add(new Model.ORDERS { ORD_NUM = 800, ORD_AMOUNT = 219494, ADVANCE_AMOUNT = "6000", ORD_DATE = new DateTime(2000, 08, 01), CUST_CODE = 0008, AGENT_CODE = 001, ORD_DESCRIPTION = "sod" });
                             orders.Add(new Model.ORDERS { ORD_NUM = 900, ORD_AMOUNT = 4995585, ADVANCE_AMOUNT = "6000", ORD_DATE = new DateTime(2008, 01, 02), CUST_CODE = 0009, AGENT_CODE = 002, ORD_DESCRIPTION = "sod" });
 
-
+                            //guardar cambios 
                             db.AGENTS.AddRange(agentes);
                             db.CUSTOMERS.AddRange(customers);
                             db.ORDERS.AddRange(orders);
@@ -94,6 +96,7 @@ namespace ORMPrac2
                         }
                         catch
                         {
+                            //cerrar conexion si ocurre un error
                             dbTransaction.Rollback();
                             MessageBox.Show("Ocurrio un error y la base de datos no pudo ser poblada.\n\nLa aplicación se cerrará. ", "error encontrado", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             Application.Exit();
@@ -106,6 +109,7 @@ namespace ORMPrac2
                     }   
                 
                 }
+                //desaccitva el boton una vez oprimido
                 button1.Enabled = false;
                 oAgentes = db.AGENTS.ToList();
                 oCustomers = db.CUSTOMERS.ToList();
