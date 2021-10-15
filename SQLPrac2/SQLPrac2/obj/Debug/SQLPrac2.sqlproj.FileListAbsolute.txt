@@ -1,0 +1,10 @@
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\bin\Debug\SQLPrac2.dacpac
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\bin\Debug\SQLPrac2.dll
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\bin\Debug\SQLPrac2.pdb
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\SQLPrac2.sqlproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\Model.xml
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\refactor.xml
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\postdeploy.sql
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\predeploy.sql
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\SQLPrac2.dll
+D:\Users\Usuario\Desktop\prac1\practice1\SQLPrac2\SQLPrac2\obj\Debug\SQLPrac2.pdb

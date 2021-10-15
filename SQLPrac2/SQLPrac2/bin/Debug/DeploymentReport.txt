@@ -1,0 +1,20 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[AGENTS] (Tabla)
+       [dbo].[CUSTOMER] (Tabla)
+       [dbo].[ORDERS] (Tabla)
+       [dbo].[FK_AGENTS_CUSTOMER] (Clave externa)
+       [dbo].[FK_AGENTS_ORDERS] (Clave externa)
+       [dbo].[FK_CUSTOMER_ORDERS] (Clave externa)
+
+** Acciones de compatibilidad
